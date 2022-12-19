@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(lightskyblue, azure);
+}
+canvas{
+    border-color: black;
+    box-shadow: 5px 5px 5px gray;
+    background-color: aliceblue;
+}
+.bttn{
+    width: 100%;
+    font-size: 40px;
+}
